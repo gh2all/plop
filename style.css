@@ -1,0 +1,45 @@
+html {
+    background-image: url('img.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #24272b;
+    color: grey;
+    text-align: center
+    overflow: hidden;
+}
+
+h1 {
+    text-shadow: 0.3em 0.3em 0.5em black;
+    font-size: 25px;
+    color: black:
+}
+
+a {
+    text-decoration: none;
+}
+
+#progress {
+    display: block;
+}
+
+#menu {
+    display: block;
+}
+
+#crypto {
+    display: none;
+}
+
+#tools {
+    display: none;
+}
+
+#lnx {
+    display: none;
+}
+
+#mods {
+    display: none;
+}    
